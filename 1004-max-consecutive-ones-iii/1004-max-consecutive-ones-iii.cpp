@@ -9,7 +9,7 @@ public:
             if(nums[right]==0){
                 cnt++;
             }
-            if(cnt>k){
+            while(cnt>k){
                 if(nums[left]==0){
                     cnt--;
                 }
