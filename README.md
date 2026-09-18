@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Archie300618/DSA/tree/master/0007-reverse-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archie300618/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Archie300618/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
