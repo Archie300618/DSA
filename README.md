@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Archie300618/DSA/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/Archie300618/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/Archie300618/DSA/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Archie300618/DSA/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/Archie300618/DSA/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Archie300618/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Archie300618/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3731-find-missing-elements](https://github.com/Archie300618/DSA/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Archie300618/DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Archie300618/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Archie300618/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Archie300618/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3866-first-unique-even-element](https://github.com/Archie300618/DSA/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/Archie300618/DSA/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
