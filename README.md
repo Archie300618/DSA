@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Archie300618/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Archie300618/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Archie300618/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Archie300618/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Archie300618/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/Archie300618/DSA/tree/master/3731-find-missing-elements) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Archie300618/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Archie300618/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Archie300618/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Archie300618/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Archie300618/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/Archie300618/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Archie300618/DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Archie300618/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Archie300618/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Archie300618/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Archie300618/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Archie300618/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Archie300618/DSA/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Archie300618/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1748-sum-of-unique-elements](https://github.com/Archie300618/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Archie300618/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Archie300618/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
