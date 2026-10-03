@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Archie300618/DSA/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Archie300618/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Archie300618/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archie300618/DSA/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archie300618/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Archie300618/DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Archie300618/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Archie300618/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Archie300618/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Archie300618/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
