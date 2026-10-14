@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archie300618/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Archie300618/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Archie300618/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Archie300618/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Archie300618/DSA/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/Archie300618/DSA/tree/master/3978-unique-middle-element) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Archie300618/DSA/tree/master/0013-roman-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archie300618/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Archie300618/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Archie300618/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Enumeration
 |  |
 | ------- |
