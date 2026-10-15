@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Archie300618/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Archie300618/DSA/tree/master/0013-roman-to-integer) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Archie300618/DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archie300618/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Archie300618/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Archie300618/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
