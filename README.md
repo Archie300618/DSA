@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Archie300618/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archie300618/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Archie300618/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Archie300618/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Archie300618/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Archie300618/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Archie300618/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archie300618/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Archie300618/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/Archie300618/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Archie300618/DSA/tree/master/3731-find-missing-elements) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Archie300618/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Archie300618/DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Archie300618/DSA/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Archie300618/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Archie300618/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Archie300618/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Archie300618/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
