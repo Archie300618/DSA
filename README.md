@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Archie300618/DSA/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Archie300618/DSA/tree/master/0016-3sum-closest) |
 | [0136-single-number](https://github.com/Archie300618/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Archie300618/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archie300618/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Archie300618/DSA/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Archie300618/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Archie300618/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Archie300618/DSA/tree/master/0242-valid-anagram) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Archie300618/DSA/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Archie300618/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
