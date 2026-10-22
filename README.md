@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Archie300618/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Archie300618/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Archie300618/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Archie300618/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Archie300618/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Archie300618/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Queue
 |  |
