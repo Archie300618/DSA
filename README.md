@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Archie300618/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Archie300618/DSA/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/Archie300618/DSA/tree/master/0258-add-digits) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Archie300618/DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archie300618/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Archie300618/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Archie300618/DSA/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Archie300618/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Archie300618/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Queue
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Archie300618/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Archie300618/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
