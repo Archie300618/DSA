@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archie300618/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Archie300618/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Archie300618/DSA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Archie300618/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Archie300618/DSA/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Archie300618/DSA/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Archie300618/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Archie300618/DSA/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Archie300618/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Archie300618/DSA/tree/master/0263-ugly-number) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archie300618/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Archie300618/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Archie300618/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Archie300618/DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Archie300618/DSA/tree/master/0076-minimum-window-substring) |
