@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Archie300618/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Archie300618/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Archie300618/DSA/tree/master/0268-missing-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Archie300618/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Archie300618/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Archie300618/DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archie300618/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
