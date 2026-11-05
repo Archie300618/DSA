@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Archie300618/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Archie300618/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Archie300618/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/Archie300618/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Archie300618/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Archie300618/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Archie300618/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Archie300618/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Archie300618/DSA/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Archie300618/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Archie300618/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Tree
 |  |
 | ------- |
