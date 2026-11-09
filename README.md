@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Archie300618/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Archie300618/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Archie300618/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Archie300618/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Archie300618/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Archie300618/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Archie300618/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Archie300618/DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Archie300618/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Archie300618/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Archie300618/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Archie300618/DSA/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Archie300618/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Archie300618/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Archie300618/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Archie300618/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archie300618/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Archie300618/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Archie300618/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Archie300618/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Archie300618/DSA/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Archie300618/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -353,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Archie300618/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Archie300618/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Archie300618/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Archie300618/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Archie300618/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
