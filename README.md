@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Archie300618/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Archie300618/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Archie300618/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Archie300618/DSA/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Archie300618/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Archie300618/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Archie300618/DSA/tree/master/1837-sum-of-digits-in-base-k) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Archie300618/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/Archie300618/DSA/tree/master/0509-fibonacci-number) |
 ## DP on Trees
 |  |
 | ------- |
@@ -367,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Archie300618/DSA/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Archie300618/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Archie300618/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
