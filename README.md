@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Archie300618/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Archie300618/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Archie300618/DSA/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Archie300618/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Archie300618/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Archie300618/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Archie300618/DSA/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Archie300618/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Archie300618/DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Archie300618/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Archie300618/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Archie300618/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Archie300618/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Archie300618/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
